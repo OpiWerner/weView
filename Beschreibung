@@ -1,1 +1,5 @@
-Keine Ahnung
+Das Programm soll weShow-Dateien anzeigen.
+Es soll zwei Anzeige-Formen geben:
+
+1. Anzeige auf dem 1. Monitor.
+2. Anzeige auf dem 2. Monitor mit Steuerung auf dem 1. Monitor (Referenten-Modus).
